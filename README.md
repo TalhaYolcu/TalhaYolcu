@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Talha</h1>
-<h3 align="center">A passionate Computer Engineering Student at Gebze Techincal University</h3>
+<h3 align="center">A passionate Software Engineer at TUBITAK BILGEM</h3>
 
 - 🌱 I’m currently working on **Mobile Application Development and Networking**
 
